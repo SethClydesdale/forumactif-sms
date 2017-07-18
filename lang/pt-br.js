@@ -1,3 +1,4 @@
+// Brasilian Portuguese translation by Harleen
 window.fam_lang_import = {
   loading : 'Carregando...',
   idle : 'O Forumactif Messenger adormeceu devido à inatividade. Clique aqui para começar a conversar novamente.',
