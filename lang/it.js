@@ -6,7 +6,7 @@ window.fam_lang_import = {
   new_messages : 'Nuovi Messaggi',
 
   new_topic : 'Nuovo argomento',
-  start_topic : 'Apri un'argomento',
+  start_topic : 'Apri un\'argomento',
 
   msg_placeholder : 'Inserisci messaggio',
   title_placeholder : 'Titolo argomento',
