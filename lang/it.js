@@ -128,7 +128,7 @@ window.fam_lang_import = {
   attach_video : 'Aggiungi un Video',
   attach_remove : 'Gestisci allegati',
   attach_upload : 'Carica',
-  attach_uploading : 'L'uploader di immagini è già aperto.',
+  attach_uploading : 'L\'uploader di immagini è già aperto.',
   attach_searchYT : 'Cerca su YouTube',
   attach_searchingYT : 'Youtube è già aperto.',
   attach_max : 'Hai raggiunto il numero massimo di allegati per questo messaggio.',
